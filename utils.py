@@ -9,7 +9,7 @@ import json
 
 # Load environment variables
 load_dotenv()
-OPENAI_API_KEY="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"
+OPENAI_API_KEY="sk-open api"
 
 openai.api_key = OPENAI_API_KEY #os.getenv("OPENAI_API_KEY")
 
